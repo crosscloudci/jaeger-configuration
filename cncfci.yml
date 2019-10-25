@@ -2,13 +2,13 @@
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/color/cncf-color.svg?sanitize=true"
   display_name: Jaeger
   sub_title: Tracing
-  project_url: "https://github.com/crosscloudci/jaeger"
+  project_url: "https://github.com/jaegertracing/jaeger"
   stable_ref: "v1.14.0"
   head_ref: "master"
   ci_system:
     -
       ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/cncfci/jaeger"  # can be anything for citest
+      ci_project_url: "https://example.com/jaegertracing/jaeger"  # can be anything for citest
       ci_project_name: "jaegertracing/jaeger"
       arch:
         - amd64
