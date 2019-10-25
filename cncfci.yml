@@ -3,7 +3,7 @@
   display_name: Jaeger
   sub_title: Tracing
   project_url: "https://github.com/crosscloudci/jaeger"
-  stable_ref: "v0.0.4"
+  stable_ref: "v1.14.0"
   head_ref: "master"
   ci_system:
     -
