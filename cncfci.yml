@@ -4,7 +4,7 @@
   sub_title: Distributed Tracing
 
   project_url: "https://github.com/jaegertracing/jaeger"
-  stable_ref: "v1.18.0"
+  stable_ref: "v1.18.1"
   head_ref: "master"
   ci_system:
     -
