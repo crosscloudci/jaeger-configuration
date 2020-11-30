@@ -9,7 +9,7 @@
   ci_system:
     -
       ci_system_type: "travis-ci-com"
-      ci_project_url: "https://example.com/jaegertracing/jaeger"  # can be anything for citest
+      ci_project_url: "https://travis-ci.com/jaegertracing/jaeger"  # can be anything for citest
       ci_project_name: "jaegertracing/jaeger"
       arch:
         - amd64
